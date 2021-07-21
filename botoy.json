@@ -1,0 +1,11 @@
+{   
+    "qq":"2593923636",
+    "host": "http://ts.qiny.top",
+    "port": 59888,
+    "group_blacklist": [],
+    "friend_blacklist": [],
+    "blocked_users": [],
+    "webhook": false,
+    "webhook_post_url": "http://ts.qiny.top:59888/",
+    "webhook_timeout": 20
+}
